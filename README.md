@@ -1,6 +1,6 @@
 # Neural-Network
       This neural network is made to do binary classification , you can change the n_class to make it multi-classifier
-   ### Lib Used  
+   ### Dependencies 
    * pip install tensorlflow 
    * pip install numpy
    * pip install pandas
